@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="env-setup-tool",
-    version="0.9.5",
+    version="0.9.6",
     packages=find_packages(),
     package_data={"env_setup": ["data/*"]},
     include_package_data=True,
